@@ -1,6 +1,6 @@
 # Motivational Quotes
 
-File 'quotes.txt' contains around 163 quotes, scrapped from 2 different websites listed in py scripts 'quote_scrape_1.py' and 'quote_scrape_2.py'. 
+File 'quotes.txt' contains a current number of 163 quotes, scrapped from 2 different websites listed in py scripts 'quote_scrape_1.py' and 'quote_scrape_2.py'. 
 
 Main file execution is within 'random_quote_of_the_day.py'.
 
